@@ -1,2 +1,6 @@
 Métodos HTTP/api/target/*
 Métodos HTTP/api/.settings/*
+HTTP method extensions/api/.settings/*
+HTTP method extensions/api/target/classes/api/methods/LOCK.class
+HTTP method extensions/api/target/classes/api/HelloWorldRest.class
+HTTP method extensions/api/target/*
